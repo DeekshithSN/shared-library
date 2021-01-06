@@ -1,4 +1,4 @@
-def call() {
+def call(String project) {
 
 
   def getDockerTag(){
